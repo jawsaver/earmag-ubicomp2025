@@ -58,7 +58,7 @@ Work in progress...
 If you use this work in your research, please cite the following:
 ```bibtex
 @inproceedings{yourkey2025,
-  author       = {Max Jacob Frederik van Oort, Gabriel Enrique S\'{a}enz, Selina Tirtajana and Przemysław Pawełczak},
+  author       = {Max Jacob Frederik van Oort and Gabriel Enrique S\'{a}enz and Selina Tirtajana and Przemysław Pawełczak},
   title        = {EarMag: In-Ear Magnetosensing for Jaw and Head Gesture-Based Human-Computer Interaction},
   booktitle    = {Companion of the 2025 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp Companion '25)},
   year         = {2025},
